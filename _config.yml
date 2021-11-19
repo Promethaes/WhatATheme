@@ -7,13 +7,13 @@ url: 'https://promethaes.github.io/'
 baseurl: 
 
 # Title of the Site
-title: HELLO THERE TRAVELLER
+title: Anthony Smiderle's Portfolio
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: Game Programmer Specializing in Core Gameplay, Tools, Networked Gameplay and AI.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: Anthony,Smiderle, Anthony Smiderle, Portfolio, Game Programmer
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,32 +22,21 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: thedevslot@gmail.com
-facebook_username: thedevslot
-twitter_username: thedevslot
-instagram_username: thedevslot
-linkedin_username: thedevslot
-github_username:  thedevslot
-youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
-
+email: anthony.smiderle@gmail.com
+linkedin_username: asmiderle
+github_username:  Promethaes
+itchio_username: Promethaes
 # Google Analytics
 google-analytics: UA-163806439-1
 
-# Disqus
-disqus-shortname: thedevslot
-
 # Name of the Author
-author-name: TheDevsLot
+author-name: Anthony Smiderle
 # URL for the Image of the Author
 author-image: /assets/images/me.jpg
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Hi there! I'm a Game Programmer specializing in Core Gameplay, Tools, Networked Gameplay and AI. Check out my work on this site. Feel free to look at my resume and contact me! Some hobbies include playing games (obviously!), espresso, being in nature and music.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/Promethaes
 
 # SASS
 sass:
