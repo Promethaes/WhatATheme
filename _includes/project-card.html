@@ -9,12 +9,18 @@
         </figure>
         <div class="card-content">
           <h1 class="title has-text-white is-size-4">{{ project.name }}</h1>
-          <span class="fas fa-clock is-size-6"></span>
-          <div class="subtitle is-uppercase is-6 has-text-weight-normal has-text-white-ter">{{project.duration}}</div>
-          <span class="fas fa-user-tag is-size-6"></span>
-          <div class="subtitle is-uppercase is-6 has-text-weight-normal has-text-white-ter">{{project.role}}</div>
-          <span class="fas fa-hammer is-size-6"></span>
-          <div class="subtitle is-uppercase is-6 has-text-weight-normal has-text-white-ter">{{project.tools}}</div>
+          <!-- Duration -->
+          <span class="fas fa-clock is-size-{{site.pc-icon-size}}"></span>
+          <div class="subtitle is-uppercase is-{{site.pc-text-size}} has-text-weight-normal has-text-white-ter">{{project.duration}}</div>
+          <!-- Role -->
+          <span class="fas fa-user-tag is-size-{{site.pc-icon-size}}"></span>
+          <div class="subtitle is-uppercase is-{{site.pc-text-size}} has-text-weight-normal has-text-white-ter">{{project.role}}</div>          
+          <!-- Team Size -->
+          <span class="fas fa-users is-size-{{site.pc-icon-size}}"></span>
+          <div class="subtitle is-uppercase is-{{site.pc-text-size}} has-text-weight-normal has-text-white-ter">{{project.team-size}}</div>
+          <!-- Tool -->
+          <span class="fas fa-hammer is-size-{{site.pc-icon-size}}"></span>
+          <div class="subtitle is-uppercase is-{{site.pc-text-size}} has-text-weight-normal has-text-white-ter">{{project.tools}}</div>
 
           <p class="has-text-white has-text-weight-light content">{{ project.description | truncate: 150}}</p>
         </div>

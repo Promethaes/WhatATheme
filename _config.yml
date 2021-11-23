@@ -40,6 +40,10 @@ author-about: Hi there! I'm a Game Programmer specializing in Core Gameplay, Too
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Promethaes
 
+#Project Card & Blog Post related
+pc-icon-size: 3
+pc-text-size: 6
+
 # SASS
 sass:
   sass_dir: _sass

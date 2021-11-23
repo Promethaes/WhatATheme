@@ -5,12 +5,14 @@
   itch: https://promethaes.itch.io/sharpshooter
   duration: 3 Days
   role: Soul Programmer
+  team-size: 1
   tools: C#/Unity
   description: A game jam game that I made
 - name: ACE VR Car Game
   link:
   duration: 1 Month
   role: Core Gameplay and Networking
+  team-size: 6
   tools: C++/Unreal Engine 4
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: This was my first paid contract job in the Games Industry.
