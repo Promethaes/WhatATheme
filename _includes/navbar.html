@@ -3,10 +3,20 @@
 
         <!-- logo or branding image on left side -->
         <div class="navbar-brand">
+            {% unless site.linkedin_username ==  %}
+            <a class="navbar-item" href="http://www.linkedin.com/in/{{site.linkedin_username}}" target="_blank" class="has-text-black"><i class="fab fa-linkedin"></i></a>
+            {% endunless %}
+            {% unless site.github_username ==  %}
+            <a class="navbar-item" href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i></a>
+            {% endunless %}
+            {% unless site.itchio_username == %}
+            <a class="navbar-item" href="http://{{site.itchio_username}}.itch.io/" target="_blank" class="has-text-black"><i class="fab fa-itch-io"></i></a>
+            {% endunless %}
             <a class="navbar-item"
                 href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">
                 <strong>{{site.title}}</strong>
             </a>
+            
             <div class="navbar-burger" data-target="navbar-menu">
                 <span></span>
                 <span></span>
@@ -25,6 +35,7 @@
                     href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">HOME</a>
                     <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#project">PROJECTS</a>
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">ABOUT</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}{{site.resume}}">RESUME</a>
             </div>
 
         </div>
@@ -34,7 +45,7 @@
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         /* Get all "navbar-burger" elements */
-        var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+        var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 2);
         /* Check if there are any navbar burgers */
         if ($navbarBurgers.length > 0) {
             /* Add a click event on each of them */

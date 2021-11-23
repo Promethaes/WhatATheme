@@ -72,15 +72,27 @@ a.navbar-item.is-active {
     .image {
         max-width: 100vmax;
         margin: auto;
-
-        img {
-            border: 0.25rem dotted black;
-        }
     }
 
     a {
         min-width: 25vmax;
         margin: 0.5rem;
+    }
+    h1{
+        min-height: 5vmax;
+        margin: auto;
+    }
+    h2{
+        min-height: 10vmax;
+        margin: auto;
+    }
+    h3{
+        min-height: 3vmax;
+        margin: auto;
+    }
+    p{
+        min-height: 15vmax;
+        margin: auto;
     }
 }
 
