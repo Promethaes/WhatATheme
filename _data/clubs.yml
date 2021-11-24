@@ -2,7 +2,7 @@
   role: Vice President
   image: /assets/images/gpclogo.png
   description: Game Programming Club is a community for Game Development students at Ontario Tech University that supports the growth of the individual's programming ability and team skills. While I was Vice President, I ran a few sessions on gameplay programming techniques and the principles of DevOps. I also helped run the executive team and organize projects that we wanted to launch in coordination with professors and other clubs in order to benefit the students.
-- name: Game Programming Club
-  role: Vice President
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  description: Game Programming Club is a community for Game Development students at Ontario Tech University that supports the growth of the individual's programming ability and team skills. While I was Vice President, I ran a few sessions on gameplay programming techniques and the principles of DevOps. I also helped run the executive team and organize projects that we wanted to launch in coordination with professors and other clubs in order to benefit the students.
+- name: Game Sound Club
+  role: Founding Member
+  image: /assets/images/gsclogo.png
+  description: Unfortunately, The one game sound course at Ontario Tech University was unable to go into the depth required to do more than basic sound design, and it did not teach composing at all. I helped to found the Game Sound Club to solve this problem and create a community for people interested in game sound where they could learn and grow together. My job was to hold down the admin side of things and to get the community involved.

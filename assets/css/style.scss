@@ -70,7 +70,7 @@ a.navbar-item.is-active {
 
 #about {
     .image {
-        max-width: 100vmax;
+        max-width: 150vmax;
         margin: auto;
     }
 
@@ -87,6 +87,10 @@ a.navbar-item.is-active {
         margin: auto;
     }
     h3{
+        min-height: 3vmax;
+        margin: auto;
+    }
+    h4{
         min-height: 3vmax;
         margin: auto;
     }
