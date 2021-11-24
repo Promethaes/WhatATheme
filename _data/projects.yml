@@ -13,7 +13,7 @@
   github: https://github.com/Promethaes/SharpshooterGame
   itch: https://promethaes.itch.io/sharpshooter
   duration: 3 Days
-  role: Soul Programmer
+  role: Sole Programmer
   team-size: 1
   tools: C#/Unity
   description: You've got one bullet and a limited amount of time, get as many targets as possible and the highest score!
@@ -31,7 +31,7 @@
   link: blog/Tone
   duration: 5 Days
   team-size: 1
-  role: Soul Programmer
+  role: Sole Programmer
   tools: C++
   github: https://github.com/Promethaes/Tone-Fire
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
@@ -40,7 +40,7 @@
   duration: 1.5 Years
   tools: Lua/Tabletop Simulator
   team-size: 3
-  role: Soul Programmer
+  role: Sole Programmer
   link: 
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
   description: This was a volunteer project that I worked on for Hounds and Jackals. I had to import the board game into Tabletop Simulator in light of the pandemic.
