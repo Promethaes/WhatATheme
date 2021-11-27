@@ -7,14 +7,16 @@
   tools: C++/Unreal Engine 4
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   description: A VR car driving experience made in collaboration with the ACE facility at Ontario Tech University. This was my first paid contract job!
+  itch:
+  github:
 - name: Sharpshooter (Game Jam)
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: /assets/images/sharp.png
   link: blog/Sharpshooter
   github: https://github.com/Promethaes/SharpshooterGame
   itch: https://promethaes.itch.io/sharpshooter
   duration: 3 Days
   role: Sole Programmer
-  team-size: 1
+  team-size: 3
   tools: C#/Unity
   description: You've got one bullet and a limited amount of time, get as many targets as possible and the highest score!
 - name: Cube Apocalypse (Game Jam)
@@ -25,10 +27,10 @@
   role: Core Gameplay, Combat, Enemies
   team-size: 4
   tools: C#/Unity
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: /assets/images/cube.png
   description: Cubes are trying to kill you! Fight them with your fists and single shot spells!
 - name: Tone Fire
-  link: blog/Tone
+  link: blog/ToneFire
   duration: 5 Days
   team-size: 1
   role: Sole Programmer
@@ -41,6 +43,6 @@
   tools: Lua/Tabletop Simulator
   team-size: 3
   role: Sole Programmer
-  link: 
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  link: blog/BOG
+  image: /assets/images/bog.png
   description: This was a volunteer project that I worked on for Hounds and Jackals. I had to import the board game into Tabletop Simulator in light of the pandemic.
