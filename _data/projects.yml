@@ -9,6 +9,16 @@
   description: A VR car driving experience made in collaboration with the ACE facility at Ontario Tech University. This was my first paid contract job!
   itch:
   github:
+- name: Beat The System (Global Game Jam)
+  image: /assets/images/beat.png
+  link: blog/Beat
+  github: https://github.com/MatKostDev/GGJ22
+  itch: https://crater-364.itch.io/beat-the-system
+  duration: 3 days
+  role: Game Programmer
+  team-size: 3
+  tools: C#/Unity
+  description: A genre hybrid of RTS and FPS
 - name: Zero Possession Prototype (Game Jam)
   image: /assets/images/zero.png
   link: blog/Zero
@@ -19,6 +29,16 @@
   team-size: 4
   tools: C#/Unity
   description: A Prototype for a first person ninja platformer similar to Ghostrunner
+- name: Goldman's Saloon
+  image: /assets/images/gman.png
+  link: blog/Gold
+  github: https://github.com/Promethaes/GoldmansSaloon
+  itch: https://promethaes.itch.io/goldman
+  duration: 1 Month
+  role: Sole Programmer
+  team-size: 1
+  tools: C#/Unity
+  description: A reboot of an old top down twin stick shooter / bullet hell I made
 - name: Sharpshooter (Game Jam)
   image: /assets/images/sharp.png
   link: blog/Sharpshooter
