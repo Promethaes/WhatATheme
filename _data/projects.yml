@@ -9,6 +9,15 @@
   description: A VR car driving experience made in collaboration with the ACE facility at Ontario Tech University. This was my first paid contract job!
   itch:
   github:
+- name: Zero Possession
+  image: /assets/images/zero.png
+  link: blog/Zero
+  github: https://github.com/Sedna-Games/Zero-Possession
+  itch: https://hamraj-rai.itch.io/zero-possession
+  duration: 3 Weeks
+  role: Combat and Extras Programmer
+  team-size: 6
+  tools: C#/Unity
 - name: Beat The System (Global Game Jam)
   image: /assets/images/beat.png
   link: blog/Beat
@@ -19,16 +28,7 @@
   team-size: 3
   tools: C#/Unity
   description: A genre hybrid of RTS and FPS
-- name: Zero Possession Prototype (Game Jam)
-  image: /assets/images/zero.png
-  link: blog/Zero
-  github: https://github.com/Sedna-Games/Zero-Possession-Prototype
-  itch: https://hamraj-rai.itch.io/zero-possession-prototype
-  duration: 1 Week
-  role: Combat and Extras Programmer
-  team-size: 4
-  tools: C#/Unity
-  description: A Prototype for a first person ninja platformer similar to Ghostrunner
+  description: A first person platformer / shooter
 - name: Goldman's Saloon
   image: /assets/images/gman.png
   link: blog/Gold
