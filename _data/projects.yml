@@ -17,6 +17,7 @@
   duration: 3 Weeks
   role: Combat and Extras Programmer
   team-size: 6
+  description: A first person platformer / shooter
   tools: C#/Unity
 - name: Beat The System (Global Game Jam)
   image: /assets/images/beat.png
@@ -28,7 +29,6 @@
   team-size: 3
   tools: C#/Unity
   description: A genre hybrid of RTS and FPS
-  description: A first person platformer / shooter
 - name: Goldman's Saloon
   image: /assets/images/gman.png
   link: blog/Gold
