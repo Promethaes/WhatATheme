@@ -15,9 +15,17 @@
                 <i class="fas fa-file"></i>My Resume
             </a>
             {% endunless %}
+            {% if site.resume == %}
+            <h5>
+                <i class="fas fa-file is-size-4"></i>
+                Resume Available Upon Request
+            </h5>
+            {% endif %}
             {% unless site.email == %}
-            <i class="fas fa-envelope is-size-4"></i>
-            {{site.email}}
+            <h5>
+                <i class="fas fa-envelope is-size-4"></i>
+                {{site.email}}
+            </h5>
             {% endunless %}
             {% unless site.twitter_username == %}
             <a id="contact-button" href="https://www.twitter.com/intent/tweet?screen_name={{site.twitter_username}}"

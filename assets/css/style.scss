@@ -286,9 +286,6 @@ a.navbar-item.is-active {
     }
 
     #project-card {
-        -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
-        -moz-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
-        box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
         transform: scale(0.95);
         transition: all 0.5s ease;
         margin-bottom: 0.5rem !important;
@@ -365,6 +362,27 @@ a.navbar-item.is-active {
 
     #disqus_thread {
         margin-top: 5vmax;
+    }
+
+    .blogIcon{
+        width: 15%;
+        height: 15%;
+        padding:10;
+    }
+
+    .blogIconOther{
+        width: 10%;
+        height: 10%;
+        padding: 10;
+        align-content: auto;
+    }
+    .blogIconText{
+        #span{
+            width: 10%;
+            height: 10%;
+            padding: 10;
+            align-content: auto;
+        }
     }
     
 }

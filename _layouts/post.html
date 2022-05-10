@@ -47,12 +47,17 @@ layout: compress
 
 
             {% unless p.github == null %}
-            <a href="{{p.github}}" target="_blank" class="mlink"><i class="fab fa-github is-size-1"></i></a>
+            <a href="{{p.github}}" target="_blank" class="mlink"><i class="fab fa-github blogIcon"></i></a>
             {% endunless %}
             {% unless p.itch == null %}
-            <a href="{{p.itch}}" target="_blank" class="mlink"><i class="fab fa-itch-io is-size-1"></i></a>
+            <a href="{{p.itch}}" target="_blank" class="mlink"><i class="fab fa-itch-io blogIcon"></i></a>
             {% endunless %}
-            <div></div>
+            {% unless p.steam == null %}
+            <a href="{{p.steam}}" target="_blank" class="mlink"><i class="fab fa-steam blogIcon" aria-hidden="true"></i></a>
+            {% endunless %}
+            <div>
+              <br>
+            </div>
             <!-- Tools and Such -->
             {%- assign tags = page.tags -%}
             {%- unless tags.size == 0 -%}
@@ -60,17 +65,17 @@ layout: compress
 
 
 
-            <span class="fas fa-clock is-size-3"></span>
-            <span class="subtitle is-uppercase is-3 has-text-weight-normal has-text-black-ter">{{p.duration}}</span>
+            <span class="fas fa-clock blogIconOther"></span>
+            <span class="blogIconText">{{p.duration}}</span>
             <div></div>
-            <span class="fas fa-user-tag is-size-3"></span>
-            <span class="subtitle is-uppercase is-3 has-text-weight-normal has-text-black-ter">{{p.role}}</span>
+            <span class="fas fa-user-tag blogIconOther"></span>
+            <span class="blogIconText">{{p.role}}</span>
             <div></div>
-            <span class="fas fa-users is-size-3"></span>
-            <span class="subtitle is-uppercase is-3 has-text-weight-normal has-text-black-ter">{{p.team-size}}</span>
+            <span class="fas fa-users blogIconOther"></span>
+            <span class="blogIconText">{{p.team-size}}</span>
             <div></div>
-            <span class="fas fa-hammer is-size-3"></span>
-            <span class="subtitle is-uppercase is-3 has-text-weight-normal has-text-black-ter">{{p.tools}}</span>
+            <span class="fas fa-hammer blogIconOther"></span>
+            <span class="blogIconText">{{p.tools}}</span>
 
             <!-- {% assign words = content | number_of_words %}
             {%- unless content.size == 0 -%}
