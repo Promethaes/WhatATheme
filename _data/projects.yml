@@ -8,6 +8,15 @@
   image: https://cdn.cloudflare.steamstatic.com/steam/apps/1721820/header.jpg?t=1650257431
   description: A second-person perspective puzzle game, finalist of the Ubisoft NEXT Indie Series competition!
   steam: https://store.steampowered.com/app/1721820/Headless_JEFF3/
+- name: Canopy
+  link: blog/Canopy
+  duration: 2 weeks
+  role: Sole Programmer
+  team-size: 1
+  tools: C#/Unity, UI Builder
+  image: /assets/images/canopy.png
+  description: A Behaviour Tree Editor for Unity largely inspired by KiwiCoder.
+  github: https://github.com/Promethaes/Canopy/tree/1.0
 - name: ACE VR Car Game
   link: blog/ACEVR
   duration: 1 Month
