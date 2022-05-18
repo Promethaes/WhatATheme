@@ -6,7 +6,7 @@
   team-size: 30+
   tools: C#/Unity
   image: https://cdn.cloudflare.steamstatic.com/steam/apps/1721820/header.jpg?t=1650257431
-  description: A second-person perspective puzzle game, finalist of the Ubisoft NEXT Indie Series competition!
+  description: A second-person perspective puzzle game, finalist of the Ubisoft NEXT Indie Series competition and winner of Feedback Fest, taking the title of mostfun game!
   steam: https://store.steampowered.com/app/1721820/Headless_JEFF3/
 - name: Canopy
   link: blog/Canopy
@@ -35,7 +35,7 @@
   duration: 3 Weeks
   role: Combat and Extras Programmer
   team-size: 6
-  description: A first person platformer / shooter
+  description: A first person platformer / shooter, winner of Player's Choice and Best Sound at Ontario Tech University's 2022 Gamecon!
   tools: C#/Unity
 - name: Beat The System (Global Game Jam)
   image: /assets/images/beat.png
