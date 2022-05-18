@@ -77,11 +77,3 @@
   github: https://github.com/Promethaes/Tone-Fire
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: Made for the first and second years in my program so they could have sound in their games.
-- name: Beast of Gevaudan Tabletop Sim Version (Volunteer)
-  duration: 1.5 Years
-  tools: Lua/Tabletop Simulator
-  team-size: 3
-  role: Sole Programmer
-  link: blog/BOG
-  image: /assets/images/bog.png
-  description: This was a volunteer project that I worked on for Hounds and Jackals. I had to import the board game into Tabletop Simulator in light of the pandemic.
