@@ -16,6 +16,29 @@
                     <p>{{site.author-about}}</p>
                 </div>
             </div>
+            <!-- Testimonials -->
+            <h2 class="is-size-2 is-uppercase has-text-weight-semibold has-text-black is-marginless ">
+                Testimonials
+            </h2>
+            <div class="columns">
+                {% for testy in site.data.testies %}
+                <div class="column is-one-fifth-desktop is-one-fifth-tablet is-one-fifth-fullhd">
+                    <figure class="image">
+                        <img class="is-full" src="{{testy.image}}" alt="{{testy.name}}">
+                    </figure>
+                </div>
+                <div
+                    class="column has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                    <h3 class="is-size-5 is-uppercase has-text-weight-semibold has-text-black is-marginless">
+                        {{testy.name}}
+                    </h3>
+                    <h4 class="is-size-5 is-uppercase has-text-weight-normal has-text-black is-marginless">
+                        {{testy.role}}
+                    </h4>
+                    <p class="is-size-6">"{{testy.description}}" - {{testy.signed}}</p>
+                </div>
+                {% endfor %}
+            </div>
             <!-- Club Involvement -->
             <h2 class="is-size-2 is-uppercase has-text-weight-semibold has-text-black is-marginless ">
                 Club Involvement at Ontario Tech University
