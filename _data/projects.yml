@@ -6,7 +6,7 @@
   team-size: 30+
   tools: C#/Unity
   image: https://cdn.cloudflare.steamstatic.com/steam/apps/1721820/header.jpg?t=1650257431
-  description: A second-person perspective puzzle game, finalist of the Ubisoft NEXT Indie Series competition and winner of Feedback Fest, taking the title of mostfun game!
+  description: A second-person perspective puzzle game, A Finalist of Ubisoft NEXT Indie Series and winner of Feedback Fest!
   steam: https://store.steampowered.com/app/1721820/Headless_JEFF3/
 - name: Canopy
   link: blog/Canopy
@@ -17,16 +17,6 @@
   image: /assets/images/canopy.png
   description: A Behaviour Tree Editor for Unity largely inspired by KiwiCoder.
   github: https://github.com/Promethaes/Canopy/tree/1.0
-- name: ACE VR Car Game
-  link: blog/ACEVR
-  duration: 1 Month
-  role: Core Gameplay and Networking
-  team-size: 6
-  tools: C++/Unreal Engine 4
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: A VR car driving experience made in collaboration with the ACE facility at Ontario Tech University. This was my first paid contract job!
-  itch:
-  github:
 - name: Zero Possession
   image: /assets/images/zero.png
   link: blog/Zero
@@ -37,6 +27,16 @@
   team-size: 6
   description: A first person platformer / shooter, winner of Player's Choice and Best Sound at Ontario Tech University's 2022 Gamecon!
   tools: C#/Unity
+- name: ACE VR Car Game
+  link: blog/ACEVR
+  duration: 1 Month
+  role: Core Gameplay and Networking
+  team-size: 6
+  tools: C++/Unreal Engine 4
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  description: A VR car driving experience made in collaboration with the ACE facility at Ontario Tech University. This was my first paid contract job!
+  itch:
+  github:
 - name: Beat The System (Global Game Jam)
   image: /assets/images/beat.png
   link: blog/Beat
