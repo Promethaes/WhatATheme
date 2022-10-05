@@ -12,4 +12,4 @@ This project was super fun to make! It was my first Jam in a long time and I had
 
 I personally think that this is one of my best arcade style games that I've made, and while I didn't have an artist or sound designer (I made all the sounds myself) the game turned out pretty good!
 
-<iframe frameborder="0" src="https://itch.io/embed/1204008?dark=true" width="552" height="167"><a href="https://promethaes.itch.io/sharpshooter">Sharpshooter by Anthony Smiderle, BathtubSloth</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/1204008?dark=true" width="552" height="167"><a href="https://promethaes.itch.io/sharpshooter">Sharpshooter by Angie Smiderle, BathtubSloth</a></iframe>
