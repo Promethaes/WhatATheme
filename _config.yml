@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Angie Smiderle's Portfolio
 # Description of the Site
-description: Game Programmer Specializing in Core Gameplay, Tools, Networked Gameplay and AI.
+description: Game Programmer Specializing in Core Gameplay, Tools, and Game AI.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: anthony.smiderle@gmail.com
+email: angie.smiderle@gmail.com
 linkedin_username: asmiderle
 github_username:  Promethaes
 itchio_username: Promethaes
@@ -38,7 +38,7 @@ author-name: Angie Smiderle
 # URL for the Image of the Author
 author-image: /assets/images/me.jpg
 # 60 Words About the Author
-author-about: Hi there! I'm a Game Programmer specializing in Core Gameplay, Tools, Networked Gameplay and AI. Check out my work on this site! Feel free to contact me, my resume is available upon request. Some hobbies include playing games (obviously!), espresso, being in nature and music. I also love to get to know people!
+author-about: Hi there! I'm a Game Programmer specializing in Core Gameplay, Automation Tools, and Game AI. Check out my work on this site! Feel free to contact me, my resume is available upon request. Some hobbies include playing games (obviously!), espresso, being in nature and music.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Promethaes
 

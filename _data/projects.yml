@@ -1,10 +1,17 @@
 
+- name: Cardio Practice
+  duration: 9 months
+  link: https://the-aad-ltd.github.io/Cardio-Practice-Info/
+  role: Gameplay and DevOps
+  team-size: 2+
+  tools: C#/Unity, Bash
+  description: A fun game meant to refresh medical professionals on how to diagnose cardiovascular conditions and diseases.
 - name: Headless JEFF-3
   link: blog/JEFF
-  duration: 4+ Months
-  role: Gameplay and AI
+  duration: 1+ year
+  role: Gameplay, AI, DevOps
   team-size: 30+
-  tools: C#/Unity
+  tools: Unreal 5
   image: https://cdn.cloudflare.steamstatic.com/steam/apps/1721820/header.jpg?t=1650257431
   description: A second-person perspective puzzle game, A Finalist of Ubisoft NEXT Indie Series and winner of Feedback Fest!
   steam: https://store.steampowered.com/app/1721820/Headless_JEFF3/
