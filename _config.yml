@@ -7,13 +7,13 @@ url: 'https://promethaes.github.io/'
 baseurl: 
 
 # Title of the Site
-title: Angie Smiderle's Portfolio
+title: Angelica Smiderle's Portfolio
 # Description of the Site
 description: Game Programmer Specializing in Core Gameplay, Tools, and Game AI.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: Angie,Smiderle, Angie Smiderle, Portfolio, Game Programmer
+site-keywords: Angelica,Smiderle, Angelica Smiderle, Portfolio, Game Programmer
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -22,7 +22,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: angie.smiderle@gmail.com
+email: Angelica.smiderle@gmail.com
 linkedin_username: asmiderle
 github_username:  Promethaes
 itchio_username: Promethaes
@@ -34,7 +34,7 @@ itchio_username: Promethaes
 google-analytics: UA-163806439-1
 
 # Name of the Author
-author-name: Angie Smiderle
+author-name: Angelica Smiderle
 # URL for the Image of the Author
 author-image: /assets/images/me.jpg
 # 60 Words About the Author
