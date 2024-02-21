@@ -42,6 +42,8 @@ author-about: Hi there! I'm a Game Programmer specializing in Core Gameplay, Aut
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/Promethaes
 
+resume: /assets/resume.pdf
+
 #Project Card & Blog Post related
 pc-icon-size: 3
 pc-text-size: 6
