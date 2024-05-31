@@ -1,4 +1,11 @@
 
+- name: "Thrive: Heavy Lies The Crown"
+  duration: 9 months
+  link: https://thrivehltc.com
+  role: Gameplay Developer
+  team-size: 20+
+  tools: C#/Unity, Bash
+  description: A city builder RTS
 - name: Cardio Practice
   duration: 9 months
   link: https://the-aad-ltd.github.io/Cardio-Practice-Info/
